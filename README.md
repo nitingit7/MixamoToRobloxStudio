@@ -63,6 +63,7 @@ Before you begin, ensure you have the following installed:
    - Select the R15 rig and import animation from Roblox
      ![Mixamo Export](Pics/RobloxImporting5.png)
    - Then I hope the animation will play as expected, if any problem you are facing please feel free to ask :blush:
+     ![Mixamo Export](Pics/RobloxImporting6.png)
 ---  
 
 ## 📺 Video Tutorial
