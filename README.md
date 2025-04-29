@@ -18,25 +18,25 @@ Before you begin, ensure you have the following installed:
 ---
 
 ## 🔄 Steps Required
-1. **Upload to Mixamo**: Import the rig into Mixamo, which I shared above (Roblox Blender Add-on Rig Exporter Plugin) ![Mixamo Export](Pics/MixamoAnimations.png).
-2. **Download Animated Rig**: Export the animated rig from Mixamo and ensure the settings are similar![Mixamo Export](Pics/Mixamo%20Export.png)
+1. **Upload to Mixamo**: Import the rig into Mixamo, which I shared above (Roblox Blender Add-on Rig Exporter Plugin)![Mixamo Export](Pics/MixamoAnimations.png)
+2. **Download Animated Rig**: Export the animated rig from Mixamo and ensure the settings are similar to this![Mixamo Export](Pics/Mixamo%20Export.png)
 3. **Install Blender Add-ons**: Install the addons(Roblox Blender Add-on Rig Exporter Plugin) from above in the blender **2.79b**
    - Use shortcut CTR+ALT+U and go to the Add -ons section from the top ribbon
      ![Mixamo Export](Pics/InstalllingPlugin1.png)
-   - Click on the install Add-ons from file from the bottom left corner
+   - Click on the Install Add-ons from file from the bottom left corner
      ![Mixamo Export](Pics/InstalllingPlugin2.png)
-   - Locate the Add-on file from your computer
+   - Locate the Add-on file on your computer
      ![Mixamo Export](Pics/InstalllingPlugin3.png)
-   - Go to the user section from the left options, you will see installed Add-on file enable it
+   - Go to the user section from the left options, you will see the installed Add-on file, enable it
      ![Mixamo Export](Pics/InstalllingPlugin4.png)
-   - Now go to the Animation tab from the left of the panel in Blender you will see Rbx Animations, then import **obj** file character [Download this](https://github.com/nitingit7/MixamoToRobloxStudio/blob/1af366c7da4dbdd31b3f3f8a07838458b3e8d901/BaseModel.obj)
+   - Now go to the Animation tab from the left of the panel in Blende,r you will see Rbx Animations, then import **obj** file character [Download this](https://github.com/nitingit7/MixamoToRobloxStudio/blob/1af366c7da4dbdd31b3f3f8a07838458b3e8d901/BaseModel.obj)
      ![Mixamo Export](Pics/InstalllingPlugin5.png)
      ![Mixamo Export](Pics/InstalllingPlugin6.png)
    - Click on the **Rebuild Rig** from the left under the Rbx Animation, then press ok(Make sure y coordinate is selected)
      ![Mixamo Export](Pics/InstalllingPlugin7.png)
    - Now select LockRot from the bottom left
     ![Mixamo Export](Pics/InstalllingPlugin8.png)
-   - Now import Animation under the Rbx Animation, you and select the **fbx** file from your compute,r then you will see
+   - Now import Animation under the Rbx Animation, you and select the **fbx** file from your computer, then you will see
      ![Mixamo Export](Pics/InstalllingPlugin9.png)
    - Make the changes to the  UI of Blender by adding more space/panel for **Dropsheet** and **Graph Editor**
      ![Mixamo Export](Pics/InstalllingPlugin10.png)
