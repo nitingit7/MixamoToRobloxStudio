@@ -14,6 +14,7 @@ Before you begin, ensure you have the following installed:
 - [Mixamo Account](https://www.mixamo.com/)
 - [Roblox Blender Add-on Rig Exporter Plugin](https://pastebin.com/raw/fKtXPwKx)
 - [Roblox Character for Mixamo](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/3X/b/d/bd22d7f9be43ef5800a6f670bd2118ddf6187ff7.fbx)
+- [Fix Lower Torso Position](Animation/Fix_Lower_Torso.lua)
 
 ---
 
